@@ -31,7 +31,7 @@
 ## 关于技术的相关版本
 
 * Spring Boot 和 Spring Cloud 的版本需要对应，否则程序运行会出问题
-* 以上相关版本，直接使用Spring Cloud 官方代码Gradle配置会报错，所以都是去http://spring.io/进行下载的
+* 以上相关版本，直接使用Spring Cloud 官方代码Gradle配置会报错，所以都是去http://spring.io/ 进行下载的
 
 
 ## 关于天气预报接口
