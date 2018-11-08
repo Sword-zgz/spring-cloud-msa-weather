@@ -18,7 +18,7 @@ import com.syy.spring.cloud.weather.service.WeatherDataCollectionService;
 import com.syy.spring.cloud.weather.vo.City;
 
 /**
-* @author 作者：shenyuanyuan E-mail:
+* @author 作者：Sword E-mail:
 * @version 创建时间：2018年3月13日 下午3:15:05
 * 类说明
 */

@@ -11,7 +11,7 @@ import com.syy.spring.cloud.weather.service.WeatherDataService;
 import com.syy.spring.cloud.weather.vo.WeatherResponse;
 
 /**
- * @author 作者：shenyuanyuan E-mail:
+ * @author 作者：Sword E-mail:
  * @version 创建时间：2018年3月6日 下午2:37:44 类说明
  */
 @RestController

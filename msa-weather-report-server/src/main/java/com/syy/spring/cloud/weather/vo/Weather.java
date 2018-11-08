@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * 天气类
  * 
- * @author 作者：shenyuanyuan E-mail:
+ * @author 作者：Sword E-mail:
  * @version 创建时间：2018年3月6日 上午11:17:05 类说明
  */
 public class Weather implements Serializable{

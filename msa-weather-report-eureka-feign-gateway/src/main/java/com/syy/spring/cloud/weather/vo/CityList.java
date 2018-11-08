@@ -8,7 +8,7 @@ import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
 
 /**
-* @author 作者：shenyuanyuan E-mail:
+* @author 作者：Sword E-mail:
 * @version 创建时间：2018年3月14日 上午11:23:51
 * 类说明
 */

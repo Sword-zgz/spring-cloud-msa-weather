@@ -11,8 +11,8 @@ import org.springframework.http.converter.StringHttpMessageConverter;
 import org.springframework.web.client.RestTemplate;
 
 /**
- * @author 作者：shenyuanyuan E-mail:
- * @version 创建时间：2018年3月7日 下午3:01:09 类说明
+ * @author 作者：Sword E-mail:
+ * @version 创建时间：2018年11月8日 下午3:01:09 类说明
  */
 
 @Configuration

@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Configuration;
 import com.syy.spring.cloud.weather.job.WeatherDataSyncJob;
 
 /**
-* @author 作者：shenyuanyuan E-mail:
+* @author 作者：Sword E-mail:
 * @version 创建时间：2018年3月13日 下午3:17:43
 * 类说明 Quartz配置类
 */

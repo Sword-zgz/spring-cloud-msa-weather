@@ -9,7 +9,7 @@ import javax.xml.bind.JAXBException;
 import javax.xml.bind.Unmarshaller;
 
 /**
-* @author 作者：shenyuanyuan E-mail:
+* @author 作者：Sword E-mail:
 * @version 创建时间：2018年3月14日 下午2:35:40
 * 类说明 将xmlstr转化成object
 */

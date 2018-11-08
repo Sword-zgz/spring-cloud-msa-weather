@@ -9,7 +9,7 @@ import com.syy.spring.cloud.weather.vo.City;
 import com.syy.spring.cloud.weather.vo.WeatherResponse;
 
 /**
-* @author 作者：shenyuanyuan E-mail:
+* @author 作者：Sword E-mail:
 * @version 创建时间：2018年3月23日 上午11:00:34
 * 类说明
 */

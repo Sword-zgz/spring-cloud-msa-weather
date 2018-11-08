@@ -12,7 +12,7 @@ import com.syy.spring.cloud.weather.vo.Weather;
 import com.syy.spring.cloud.weather.vo.WeatherResponse;
 
 /**
-* @author 作者：shenyuanyuan E-mail:
+* @author 作者：Sword E-mail:
 * @version 创建时间：2018年3月15日 上午10:27:33
 * 类说明  天气预报接口实现
 */

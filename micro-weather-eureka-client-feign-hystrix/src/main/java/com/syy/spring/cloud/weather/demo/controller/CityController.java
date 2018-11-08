@@ -8,7 +8,7 @@ import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 import com.syy.spring.cloud.weather.demo.service.CityClient;
 
 /**
-* @author 作者：shenyuanyuan E-mail:
+* @author 作者：Sword E-mail:
 * @version 创建时间：2018年3月21日 上午10:20:43
 * 类说明
 */

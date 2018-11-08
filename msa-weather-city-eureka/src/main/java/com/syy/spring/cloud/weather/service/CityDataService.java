@@ -7,7 +7,7 @@ import javax.xml.bind.JAXBException;
 import com.syy.spring.cloud.weather.vo.City;
 
 /**
-* @author 作者：shenyuanyuan E-mail:
+* @author 作者：Sword E-mail:
 * @version 创建时间：2018年3月14日 下午2:44:42
 * 类说明
 */

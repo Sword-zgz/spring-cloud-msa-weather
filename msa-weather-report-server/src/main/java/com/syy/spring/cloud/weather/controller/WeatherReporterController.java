@@ -19,7 +19,7 @@ import com.syy.spring.cloud.weather.service.WeatherReporterService;
 import com.syy.spring.cloud.weather.vo.City;
 
 /**
- * @author 作者：shenyuanyuan E-mail:
+ * @author 作者：Sword E-mail:
  * @version 创建时间：2018年3月15日 上午10:32:48 类说明
  */
 @RestController
