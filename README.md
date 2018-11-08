@@ -65,7 +65,7 @@
 * Eureka 服务有缓存，获取数据不对 ，可以通过更换客户端端口解决，目前不知道更好的解决办法。
 * 还有很多坑 ，如果遇到可以给我留言探讨 
 
-## 源码地址：https://github.com/yuanyuanshen/spring-cloud-msa-weather
+## 源码地址：https://github.com/Sword-zgz/spring-cloud-msa-weather
 
 
 
